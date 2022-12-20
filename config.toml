@@ -1,4 +1,4 @@
-baseURL = 'https://jamierg.github.io/jamiegrasing.com/'
+baseURL = 'https://jamiegrasing.com'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'm10c'
