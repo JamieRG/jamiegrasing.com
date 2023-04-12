@@ -40,7 +40,7 @@ contentratio = 0.8
 [[params.socialIcons]]
 icon = "fab fa-mastodon"
 name = "Mastodon"
-url = "https://github.com/JamieRG"
+url = "https://fosstodon.org/@jgrasing"
 
 
 [[params.socialIcons]]
@@ -48,9 +48,9 @@ icon = "fab fa-github"
 name = "Github"
 url = "https://github.com/JamieRG"
 
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-name = "Github"
-url = "https://github.com/JamieRG"
+# [[params.socialIcons]]
+# icon = "fab fa-linkedin"
+# name = "Github"
+# url = "https://www.linkedin.com/in/jamiegrasing"
 
 
