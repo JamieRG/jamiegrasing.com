@@ -1,3 +1,3 @@
 # About
 
-Coming Soon!
+Information Coming Soon!
