@@ -1,4 +1,56 @@
-baseURL = 'https://jamiegrasing.com'
+baseURL = 'https://jamiegrasing.com/'
 languageCode = 'en-us'
-title = 'My Newer Hugo Site'
-theme = 'm10c'
+title = 'Jamie Grasing'
+theme = 'anatole'
+
+[params]
+description = """
+Software Developer. 
+LFC Fan."""
+profilePicture = "/img/avatar.jpg"
+author = "Jamie Grasing"
+contentratio = 0.8
+
+[menu]
+    [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 100
+
+    [[menu.main]]
+    name = "Posts"
+    weight = 200
+    identifier = "posts"
+    url = "/post/"
+
+    [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 200
+    
+    [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 300
+
+
+[[params.socialIcons]]
+icon = "fab fa-mastodon"
+name = "Mastodon"
+url = "https://github.com/JamieRG"
+
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+name = "Github"
+url = "https://github.com/JamieRG"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+name = "Github"
+url = "https://github.com/JamieRG"
+
+
