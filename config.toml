@@ -5,7 +5,7 @@ theme = 'anatole'
 
 [params]
 description = """
-Software Developer. 
+Data Engineer. 
 LFC Fan."""
 profilePicture = "/img/avatar.jpg"
 author = "Jamie Grasing"
